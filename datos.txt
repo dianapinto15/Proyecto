@@ -1,0 +1,9 @@
+cali
+medellin
+bogota
+pasto
+barranquilla
+neiva
+cucuta
+ibague
+
